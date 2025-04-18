@@ -33,7 +33,7 @@ build/
 .vscode/
 
 ### scripts ###
-init-scripy.py
+init-script.py
 new-service.py
 
 ### envFiles ###
